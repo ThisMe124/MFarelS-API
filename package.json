@@ -26,7 +26,6 @@
     "node-gtts": "^2.0.2",
     "pastebin-js": "^1.0.6",
     "performance-now": "^2.1.0",
-    "text-summarisation": "^2.0.0",
     "tinyurl": "^1.1.7",
     "qrcode": "^1.4.4"
   }
