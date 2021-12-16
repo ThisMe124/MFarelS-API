@@ -14,7 +14,7 @@ const fbdl = require('fbdl-core')
 const TinyURL = require('tinyurl')
 const Genius = new (require("genius-lyrics")).Client('YOUR_ACCESS_TOKEN') // Login/Sign Up in https://genius.com/api-clients# , Copy And Paste Your Access Token
 const QRCode = require('qrcode')
-const summarizer = require('text-summarisation')
+//const summarizer = require('text-summarisation')
 const ytdl = require('ytdl-core')
 const speed = require('performance-now')
 
