@@ -322,7 +322,7 @@ router.get('/kode-bahasa', async (req, res) => {
     cy        Welsh
       ` })
 })
-
+/*
 router.get('/tts', async (req, res) => {
   var codebahasa = req.query.codebahasa
   var text = req.query.text
@@ -337,6 +337,7 @@ router.get('/tts', async (req, res) => {
             res.status(500).json({ By: 'MFarelS - mfarelsz.xyz', status: 500, message: 'Error. Internal Server Error, Gagal/Kesalahan Dalam Membuat' })
         }
 })
+*/
 
 router.get('/koin', async (req, res) => {
   const koinn = [__path + '/public/bahan/Koin-Rp500.png', __path + '/public/bahan/Coin-Rp500.png']
